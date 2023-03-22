@@ -43,6 +43,8 @@ input[type="checkbox"].input-validation-error {
 
 .lead {
     font-size: 18px;
+    
+    color: black; /* изменяем цвет текста на белый */
 }
 
 .siloviki {
@@ -50,4 +52,8 @@ input[type="checkbox"].input-validation-error {
 }
 .button_video {
     font-size: 28px;
+}
+body {
+    background-color: black; /* изменяем цвет фона на черный */
+    color: white; /* изменяем цвет текста на белый */
 }

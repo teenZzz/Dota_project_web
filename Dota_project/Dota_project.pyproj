@@ -49,12 +49,12 @@
     <Content Include="static\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="static\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="static\fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="static\images\intelect.png" />
+    <Content Include="static\images\intelect.jpg" />
     <Content Include="static\images\intelect_heroes.png" />
     <Content Include="static\images\logo.png" />
     <Content Include="static\images\lovkost.png" />
     <Content Include="static\images\lovkost_heroes.png" />
-    <Content Include="static\images\Sila.png" />
+    <Content Include="static\images\sila.jpg" />
     <Content Include="static\images\sila_heroes.png" />
     <Content Include="static\scripts\bootstrap.js" />
     <Content Include="static\scripts\bootstrap.min.js" />
