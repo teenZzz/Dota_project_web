@@ -33,3 +33,14 @@ def about():
         message='Your application description page.',
         year=datetime.now().year
     )
+
+@route('/mama')
+@view('mama')
+def about():
+    """Renders the about page."""
+    return dict(
+        title='mama',
+        message='Your application description page.',
+        year=datetime.now().year
+    )
+
