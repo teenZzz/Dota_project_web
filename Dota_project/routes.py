@@ -1,7 +1,7 @@
 """
 Routes and views for the bottle application.
 """
-
+# -*- coding: utf-8 -*-
 from bottle import route, view
 from datetime import datetime
 
@@ -19,8 +19,8 @@ def home():
 def contact():
     """Renders the contact page."""
     return dict(
-        title='Contact',
-        message='Your contact page.',
+        #title='Contact',
+        #message='упуп',
         year=datetime.now().year
     )
 
@@ -29,8 +29,8 @@ def contact():
 def about():
     """Renders the about page."""
     return dict(
-        title='About',
-        message='Your application description page.',
+        #title='About',
+        #message='Your application description page.',
         year=datetime.now().year
     )
 
@@ -39,8 +39,8 @@ def about():
 def about():
     """Renders the about page."""
     return dict(
-        title='mama',
-        message='Your application description page.',
+        #title="Strength",
+        #message='Your application description page.',
         year=datetime.now().year
     )
 
